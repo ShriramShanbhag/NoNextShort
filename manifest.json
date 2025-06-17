@@ -1,12 +1,12 @@
 {
     "manifest_version": 3,
-    "name": "StopShortsAutoplay – Stop Infinite YouTube Shorts",
+    "name": "NoNextShort",
     "description": "Watch one Short and stop. Avoid the infinite scroll trap on YouTube Shorts.",
     "version": "1.0",
-    "permissions": ["scripting", "storage"],
+    "permissions": ["storage", "activeTab"],
     "host_permissions": ["*://www.youtube.com/*"],
     "action": {
-      "default_title": "StopShortsAutoplay",
+      "default_title": "NoNextShort",
       "default_icon": {
         "16": "icons/icon16.png",
         "48": "icons/icon48.png",
