@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
-    "name": "NoNextShort",
-    "description": "Watch one Short and stop. Avoid the infinite scroll trap on YouTube Shorts.",
+    "name": "NoNextShort – Stop Endless Scrolling in YouTube Shorts",
+    "description": "Enjoy shorts. Avoid inifinite scroll trap",
     "version": "1.0",
     "permissions": ["storage", "activeTab"],
     "host_permissions": ["*://www.youtube.com/*"],
