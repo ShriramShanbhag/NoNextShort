@@ -1,2 +1,2 @@
-# StopShortsAutoplay
+# NoNextShort
 Stop Infinite YouTube Shorts
