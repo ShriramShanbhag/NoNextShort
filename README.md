@@ -25,10 +25,8 @@ NoNextShort is a productivity tool designed to help you regain control over your
 Once installed, simply click the NoNextShort icon in your browser's toolbar to toggle the extension on or off. When enabled, your YouTube Shorts experience will be restricted, allowing you to focus on the content you intentionally selected.
 
 ## Screenshots
-
-*(Insert screenshots here to showcase the interface)*
-- ![NoNextShort Popup](screenshots/NoNextShort-popup.jpg)
-- ![NoNextShort Demo](screenshots/NoNextShort-demo.jpg)
+![NoNextShort Popup](screenshots/NoNextShort-popup.jpg)
+![NoNextShort Demo](screenshots/NoNextShort-demo.jpg)
 
 ## Contributing
 
